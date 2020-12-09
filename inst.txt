@@ -1,0 +1,5 @@
+1. Dino/player have 5 lives.
+2. Dino/player have to avoid many hurdles in its way.
+3. After 50 points in score level of game will get more difficult.
+4. Use up down right and left arrow keys for movement of Dino.
+5. This game is an endless runner.
