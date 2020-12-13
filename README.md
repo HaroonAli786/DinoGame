@@ -12,5 +12,5 @@ Improvements are welcome, don't hesitate to send a pull request.
 
 ### Credits
 1. Haroon for writing the huge, magnificent core of the game. He's got quick hands
-2. Shahab for score tracking and sound/music
+2. Shahab for creating the beautiful menu, score tracking, sound/music and
 3. Saad for doing nothing except [writing C++](https://github.com/SaadBazaz/antiPixel) and game art
